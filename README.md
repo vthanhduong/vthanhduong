@@ -12,12 +12,12 @@ Intern at MeU Solutions from Sep 23, 2024 - Present
 <a href="https://stackoverflow.com/users/18998302/professor-d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="professor-d" height="30" width="40" /></a>
 </p>
 <br>
-<p>My gists: https://gist.github.com/deethesaint</p> 
+<p>My gists: https://gist.github.com/vthanhduong</p> 
 
 ## stats
 
 <p align="center">
-  <a href="https://github.com/deethesaint">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=deethesaint&theme=react&hide_border=true" alt="deethesaint"/>
+  <a href="https://github.com/vthanhduong">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=vthanhduong&theme=react&hide_border=true" alt="vthanhduong"/>
   </a>
 </p>
