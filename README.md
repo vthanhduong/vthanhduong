@@ -1,6 +1,6 @@
 
 ## about me
-<p>:point_right: :broken_heart: :( </p>
+<!-- <p>:point_right: :broken_heart: :( </p> -->
 Intern at MeU Solutions from Sep 23, 2024 - Present
 
 ## socials
