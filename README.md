@@ -1,8 +1,6 @@
 
 ## about me
 <!-- <p>:point_right: :broken_heart: :( </p> -->
-Intern at MeU Solutions from Sep 23, 2024 - Present
-
 ## socials
 <p align="left">
 <a href="https://fb.com/vuthanhdu0ng" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="vuthanhdu0ng" height="30" width="40" /></a>
