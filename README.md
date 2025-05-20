@@ -1,6 +1,6 @@
 
 ## about me
-Hi there👋! I'm Vu Thanh Duong, a passionate technology enthusiast currently working as an AI Engineer at AMASHUB.<br>
+Hi there👋! I'm Vu Thanh Duong, a passionate technology enthusiast currently working as an AI Engineer - System Programmer at AMASHUB.<br>
 This space serves as a digital playground where I explore and share my coding adventures, projects, and learnings in the ever-evolving world of tech.<br>
 Feel free to connect and explore!
 ## socials
