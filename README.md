@@ -1,8 +1,6 @@
 
 ## about me
-Hi there👋! I'm Vu Thanh Duong, a passionate technology enthusiast.<br>
-This space serves as a digital playground where I explore and share my coding adventures, projects, and learnings in the ever-evolving world of tech.<br>
-Feel free to connect and explore!
+ko hề yêu nghề
 ## socials
 <p align="left">
 <a href="https://fb.com/vuthanhdu0ng" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="vuthanhdu0ng" height="30" width="40" /></a>
