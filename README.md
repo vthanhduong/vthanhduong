@@ -1,6 +1,8 @@
 
 ## about me
 ko hề yêu nghề
+
+huit - class of 2025
 ## socials
 <p align="left">
 <a href="https://fb.com/vuthanhdu0ng" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="vuthanhdu0ng" height="30" width="40" /></a>
