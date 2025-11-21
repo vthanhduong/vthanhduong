@@ -1,4 +1,8 @@
+<p align="center">
+  <img width="800" height="400" object-fit="cover" src="https://wallpaperaccess.com/full/8094957.gif" alt="vthanhduong" title="vthanhduong"/>
+</p>
 
+<!-- 
 ## about me
 ko hề yêu nghề
 
@@ -21,3 +25,4 @@ huit - class of 2025
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=vthanhduong&theme=react&hide_border=true" alt="vthanhduong"/>
   </a>
 </p>
+-->
