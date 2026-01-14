@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="800" height="400" object-fit="cover" src="https://raw.githubusercontent.com/vthanhduong/vthanhduong/refs/heads/master/squirtle.gif" alt="vthanhduong" title="vthanhduong"/>
+  <img width="480" height="480" object-fit="cover" src="https://raw.githubusercontent.com/vthanhduong/vthanhduong/refs/heads/master/Pixel%20Flying%20Sticker.gif" alt="vthanhduong" title="vthanhduong"/>
 </p>
 
 <!-- 
